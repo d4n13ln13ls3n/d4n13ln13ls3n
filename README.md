@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-Oi pessoal! Eu sou o **Daniel Yabu**, obrigado pela visita!
+Oi pessoal! Eu sou o **Daniel Yabu**, obrigado pela visita! <br />
 Hey everyone! I'm **Daniel Yabu**, thanks for stopping by!
 
 <img width=180px align="right" src="https://gist.github.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif" />
