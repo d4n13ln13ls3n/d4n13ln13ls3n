@@ -1,4 +1,7 @@
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
 
 Hi there, thanks for stopping by, this is **Daniel Yabu**.
 
@@ -13,8 +16,9 @@ const daniel = {
             js: ["React", "Redux"],
             css: ["bootstrap"]
         },
-        backEnd: ["Docker", "NodeJS"],
+        backEnd: ["Docker", "NodeJS", "Sequelize", "Docker", "Typescript", "Express"],
         databases: ["MySql", "MongoDB"],
+        tests: ["Jest", "Mocha", "Sinon"],
     }
 };
 ```
@@ -30,6 +34,24 @@ const daniel = {
 
 ![bottom.png](https://raw.githubusercontent.com/d4n13ln13ls3n/FigureBed/master/img/readme-bottom.png)
 
+<h2>Ferramentas e Tecnologias</h2>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+<img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt="Css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="center" alt="Redux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+<img align="center" alt="Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+</div>
 ---
 
-⭐️ Source: (https://github.com/iCharlesZ)
+⭐️ Source: (https://github.com/iCharlesZ) and (https://github.com/Marinavdac)
