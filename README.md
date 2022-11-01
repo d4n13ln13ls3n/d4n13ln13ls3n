@@ -31,8 +31,7 @@ const daniel = {
 <a href="https://github.com/iCharlesZ">
    <img src="https://komarev.com/ghpvc/?username=d4n13ln13ls3n">
 </a>
-
-![bottom.png](https://raw.githubusercontent.com/d4n13ln13ls3n/FigureBed/master/img/readme-bottom.png)
+<img height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout-compact&langs_count=168&theme=tokyonight"/>
 
 <h2>Ferramentas e Tecnologias</h2>
 </div>
@@ -54,4 +53,4 @@ const daniel = {
 </div>
 ---
 
-⭐️ Source: (https://github.com/iCharlesZ) and (https://github.com/Marinavdac)
+⭐️ Sources: (https://github.com/iCharlesZ) and (https://github.com/Marinavdac)
