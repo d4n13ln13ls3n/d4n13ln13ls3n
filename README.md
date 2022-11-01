@@ -5,7 +5,7 @@
 
 Oi pessoal! Eu sou o **Daniel Yabu**, obrigado pela visita!
 
-<img align='right' <script src="https://gist.github.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f.js"></script> width="230">
+<script src="https://gist.github.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f.js"></script>
 
 ```javascript
 const daniel = {
