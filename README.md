@@ -31,7 +31,7 @@ const daniel = {
 <a href="https://github.com/iCharlesZ">
    <img src="https://komarev.com/ghpvc/?username=d4n13ln13ls3n">
 </a>
-<img height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marinavdac&layout-compact&langs_count=168&theme=tokyonight"/>
+<img height="400em" width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4n13ln13ls3n&layout-compact&langs_count=168&theme=tokyonight"/>
 
 <h2>Ferramentas e Tecnologias</h2>
 </div>
