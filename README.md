@@ -7,9 +7,9 @@ Oi pessoal! Eu sou o **Daniel Yabu**, obrigado pela visita! <br />
 Hey everyone! I'm **Daniel Yabu**, thanks for stopping by!
 
 Contacte-me através de:
-  Telefone ou Whastapp: (43) 9960-51575
-  Email: danielyabu@yahoo.com
-  linkedIn: https://www.linkedin.com/in/daniel-yabu/
+  - Telefone ou Whastapp: (43) 9960-51575
+  - Email: danielyabu@yahoo.com
+  - linkedIn: https://www.linkedin.com/in/daniel-yabu/
 
 <img width=180px align="right" src="https://gist.github.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif" />
 
