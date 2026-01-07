@@ -18,19 +18,19 @@ Hey everyone! I'm **Daniel Yabu**, thanks for stopping by!
 
 ### 💻 Sobre mim em código / About me in code
 
-const daniel = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "series", "movies", "books"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Bootstrap"]
-        },
-        backEnd: ["Docker", "NodeJS", "Sequelize", "TypeScript", "Express", "C#", ".NET"],
-        databases: ["MySQL", "MongoDB", "SQL Server"],
-        tests: ["Jest", "Mocha", "Sinon", "xUnit"],
-    }
-};
+<pre><code>{
+  "pronouns": "He | Him",
+  "askMeAbout": ["web dev", "tech", "series", "movies", "books"],
+  "technologies": {
+    "frontEnd": {
+      "js": ["React", "Redux"],
+      "css": ["Bootstrap"]
+    },
+    "backEnd": ["Docker", "NodeJS", "Sequelize", "TypeScript", "Express", "C#", ".NET"],
+    "databases": ["MySQL", "MongoDB", "SQL Server"],
+    "tests": ["Jest", "Mocha", "Sinon", "xUnit"]
+  }
+}</code></pre>
 
 ---
 
