@@ -18,7 +18,6 @@ Hey everyone! I'm **Daniel Yabu**, thanks for stopping by!
 
 ### 💻 Sobre mim em código / About me in code
 
-​```javascript
 const daniel = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "series", "movies", "books"],
@@ -32,16 +31,10 @@ const daniel = {
         tests: ["Jest", "Mocha", "Sinon", "xUnit"],
     }
 };
-​```
 
 ---
 
 ## 📊 Estatísticas do GitHub / GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d4n13ln13ls3n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4n13ln13ls3n&layout=compact&langs_count=16&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/d4n13ln13ls3n">
