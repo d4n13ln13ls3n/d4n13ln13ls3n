@@ -27,21 +27,6 @@ const daniel = {
     tests: ["Jest", "Mocha", "Sinon"]
   }
 };
-## 📊 GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4n13ln13ls3n&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4n13ln13ls3n&layout=compact&langs_count=8&theme=tokyonight)
-
----
-
-## 👥 Social & Views
-
-[![GitHub followers](https://img.shields.io/github/followers/d4n13ln13ls3n?label=Followers&style=social)](https://github.com/d4n13ln13ls3n)
-
-![Profile views](https://komarev.com/ghpvc/?username=d4n13ln13ls3n&color=blue)
-
----
 
 ## 🛠️ Tools & Technologies
 
