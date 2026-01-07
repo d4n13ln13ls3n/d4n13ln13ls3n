@@ -18,7 +18,7 @@ Hey everyone! I'm **Daniel Yabu**, thanks for stopping by!
 
 ### 💻 Sobre mim em código / About me in code
 
-```javascript
+```
 const daniel = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "series", "movies", "books"],
